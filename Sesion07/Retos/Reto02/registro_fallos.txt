@@ -1,0 +1,1 @@
+Se produjo un error al procesar el archivo de logs:Reto02\src\errores.log
